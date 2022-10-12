@@ -1,7 +1,15 @@
-### Hi there 👋
+## Welcome
+
+Hi~ This is Hongzzz
+
+![top-langs][top-langs]  
+![github-status][github-status]
+
+[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Hongzzz
+[github-status]: https://github-readme-stats.vercel.app/api?username=Hongzzz
 
 <!--
-**hongzzz/hongzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hongzzz/Hongzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
