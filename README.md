@@ -1,11 +1,14 @@
 ## Welcome
 
-Hi~ This is Hongzzz
+Hi~ This is Hongzzz. 
+- 🔭 I’m currently working on X.
+- 🌱 I’m currently learning Rust Lang & English.
+- 🤔 I’m looking for help with praticing English.
+- 📫 How to reach me: [email](mailto:hongzzz@foxmail.com)
 
-![top-langs][top-langs]  
+
 ![github-status][github-status]
 
-[top-langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Hongzzz
 [github-status]: https://github-readme-stats.vercel.app/api?username=Hongzzz
 
 <!--
