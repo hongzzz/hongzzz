@@ -1,7 +1,7 @@
 ## Welcome
 
 Hi~ This is Hongzzz. 
-- 😄 Here is my blog site: [blog](https://hongzzz.top/)
+- 😄 Here is my blog site: [Hongzzz's Blog](https://hongzzz.top/)
 - 🔭 I’m currently working on X.
 - 🌱 I’m currently learning Rust Lang & English.
 - 🤔 I’m looking for help with praticing English.
