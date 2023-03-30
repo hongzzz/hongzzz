@@ -5,7 +5,7 @@ Hi~ This is Hongzzz.
 - 🌱 I’m currently learning Rust Lang & English.
 - 🤔 I’m looking for help with praticing English.
 - 📫 How to reach me: [email](mailto:hongzzz@foxmail.com)
-
+- Here is my blog site: [blog](https://hongzzz.top/)
 
 ![github-status][github-status]
 
